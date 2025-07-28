@@ -11,6 +11,9 @@ Material Supply: Suppliers list construction materials (e.g., sand, soil, metal)
 
 Role-Based Dashboards: Tailored dashboards for customers, vehicle owners, suppliers, and admins to manage bookings, listings, earnings, and platform oversight.
 <img width="1902" height="863" alt="image" src="https://github.com/user-attachments/assets/46f76591-d58f-40e5-b814-0df84f691014" />
+<img width="1896" height="852" alt="image" src="https://github.com/user-attachments/assets/06875476-f4d5-492b-8af6-bc4789c691a4" />
+
+
 Feedback System: Users can review vehicles, suppliers, and services to ensure transparency and quality.
 <img width="1901" height="901" alt="image" src="https://github.com/user-attachments/assets/0c230483-876b-4d04-a7e5-42513c522baf" />
 
